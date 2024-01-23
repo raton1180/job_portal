@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gray-text{
+    @apply text-gray-500
+}
+.base-text{
+    @apply text-[#10a2e9]
+}
